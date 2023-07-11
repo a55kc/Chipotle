@@ -1,2 +1,1 @@
-# Chipotle
-Chipotle data analysis using pandas
+Eduonix Project
